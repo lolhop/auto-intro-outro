@@ -1,8 +1,8 @@
 #!/bin/bash
-INTRO_FILE="/Users/sam/Documents/Programs/Intro:outro/intro.mov"
-OUTRO_FILE="/Users/sam/Documents/Programs/Intro:outro/outro.mov"
-INPUT_FOLDER="/Users/sam/Documents/Programs/Intro:outro/INPUT-FOLDER"
-OUTPUT_FOLDER="/Users/sam/Documents/Programs/Intro:outro/OUTPUT-FOLDER"
+INTRO_FILE="/your/folder/structure/intro.mov"
+OUTRO_FILE="/your/folder/structure/outro.mov"
+INPUT_FOLDER="/your/folder/structure/INPUT-FOLDER"
+OUTPUT_FOLDER="/your/folder/structure/OUTPUT-FOLDER"
 mkdir -p "$OUTPUT_FOLDER"
 
 # Check dependencies
